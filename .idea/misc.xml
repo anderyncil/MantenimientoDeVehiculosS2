@@ -6,7 +6,16 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/mscv-mantenimiento/pom.xml" />
+        <option value="$PROJECT_DIR$/msvc-diagnosticos/pom.xml" />
+        <option value="$PROJECT_DIR$/msvc-mantenimiento2/pom.xml" />
+        <option value="$PROJECT_DIR$/msvc-mantenimiento/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/msvc-diagnosticos/pom.xml" />
+        <option value="$PROJECT_DIR$/msvc-mantenimiento2/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
