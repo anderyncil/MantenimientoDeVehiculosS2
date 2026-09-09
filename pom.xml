@@ -19,6 +19,7 @@
     <modules>
         <module>msvc-recepcion</module>
         <module>msvc-diagnostico</module>
+        <module>msvc-repuestos</module>
     </modules>
 
     <properties>
