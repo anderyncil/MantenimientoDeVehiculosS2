@@ -1,0 +1,15 @@
+package org.unc.springcloud.msvc.mantenimiento;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.openfeign.EnableFeignClients;
+
+@EnableFeignClients
+@SpringBootApplication
+public class MscvMantenimientoApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MscvMantenimientoApplication.class, args);
+    }
+
+}
