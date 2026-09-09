@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.unc.springcloud.msvc</groupId>
-    <artifactId>mscv-mantenimiento</artifactId>
+    <artifactId>msvc-mantenimiento</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mscv-mantenimiento</name>
     <description>mscv-mantenimiento</description>
